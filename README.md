@@ -1,2 +1,2 @@
 # Revolutionary
-Green creativity in the eyes of software development
+Green creativity in the eyes of software developer
